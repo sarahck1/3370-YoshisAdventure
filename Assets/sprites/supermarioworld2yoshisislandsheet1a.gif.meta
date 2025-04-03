@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 0ebe6a1954545064aaf8b4281bd6d598
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4461517575818286090
+    second: supermarioworld2yoshisislandsheet1a_0
+  - first:
+      213: 5311281665524691764
+    second: supermarioworld2yoshisislandsheet1a_1
+  - first:
+      213: -5326864657378846319
+    second: supermarioworld2yoshisislandsheet1a_2
+  - first:
+      213: -2214839010659168599
+    second: supermarioworld2yoshisislandsheet1a_3
+  - first:
+      213: -422362788649451381
+    second: supermarioworld2yoshisislandsheet1a_4
+  - first:
+      213: -8116974007782877535
+    second: supermarioworld2yoshisislandsheet1a_5
+  - first:
+      213: -7614342806657815460
+    second: supermarioworld2yoshisislandsheet1a_6
+  - first:
+      213: 516403705160490216
+    second: supermarioworld2yoshisislandsheet1a_7
+  - first:
+      213: -8672067136473365794
+    second: supermarioworld2yoshisislandsheet1a_8
+  - first:
+      213: -8218743685364905233
+    second: supermarioworld2yoshisislandsheet1a_9
+  - first:
+      213: -6267570112340407453
+    second: supermarioworld2yoshisislandsheet1a_10
+  - first:
+      213: -6384801337285920328
+    second: supermarioworld2yoshisislandsheet1a_11
+  - first:
+      213: 7662652969437077445
+    second: supermarioworld2yoshisislandsheet1a_12
+  - first:
+      213: 1113367275282063059
+    second: supermarioworld2yoshisislandsheet1a_13
+  - first:
+      213: -2895122072553870225
+    second: supermarioworld2yoshisislandsheet1a_14
+  - first:
+      213: -6286616038318330648
+    second: supermarioworld2yoshisislandsheet1a_15
+  - first:
+      213: 3013044073118563398
+    second: supermarioworld2yoshisislandsheet1a_16
+  - first:
+      213: -2250272971649270814
+    second: supermarioworld2yoshisislandsheet1a_17
+  - first:
+      213: 7710121282046691809
+    second: supermarioworld2yoshisislandsheet1a_18
+  - first:
+      213: 3254715358767780040
+    second: supermarioworld2yoshisislandsheet1a_19
+  - first:
+      213: -5938430533528778630
+    second: supermarioworld2yoshisislandsheet1a_20
+  - first:
+      213: -3111971488878678386
+    second: supermarioworld2yoshisislandsheet1a_21
+  - first:
+      213: -3792172119770987495
+    second: supermarioworld2yoshisislandsheet1a_22
+  - first:
+      213: 8942366341427612884
+    second: supermarioworld2yoshisislandsheet1a_23
+  - first:
+      213: -456154584612252489
+    second: supermarioworld2yoshisislandsheet1a_24
+  - first:
+      213: -6474840555900619435
+    second: supermarioworld2yoshisislandsheet1a_25
+  - first:
+      213: -2366031272916209851
+    second: supermarioworld2yoshisislandsheet1a_26
+  - first:
+      213: -3825438175601521819
+    second: supermarioworld2yoshisislandsheet1a_27
+  - first:
+      213: -1919631654900714983
+    second: supermarioworld2yoshisislandsheet1a_28
+  - first:
+      213: 5927436501077206073
+    second: supermarioworld2yoshisislandsheet1a_29
+  - first:
+      213: -4368956474741782011
+    second: supermarioworld2yoshisislandsheet1a_30
+  - first:
+      213: 3482207171871975906
+    second: supermarioworld2yoshisislandsheet1a_31
+  - first:
+      213: 4592566860132199806
+    second: supermarioworld2yoshisislandsheet1a_32
+  - first:
+      213: 212742015895873111
+    second: supermarioworld2yoshisislandsheet1a_33
+  - first:
+      213: -3192870516464257610
+    second: supermarioworld2yoshisislandsheet1a_34
+  - first:
+      213: 4770178688074394754
+    second: supermarioworld2yoshisislandsheet1a_35
+  - first:
+      213: 3293036326760770988
+    second: supermarioworld2yoshisislandsheet1a_36
+  - first:
+      213: 6257115567144756314
+    second: supermarioworld2yoshisislandsheet1a_37
+  - first:
+      213: -2892413413453222486
+    second: supermarioworld2yoshisislandsheet1a_38
+  - first:
+      213: -8221954517131846663
+    second: supermarioworld2yoshisislandsheet1a_39
+  - first:
+      213: -5681368628509469813
+    second: supermarioworld2yoshisislandsheet1a_40
+  - first:
+      213: -7073988406704144412
+    second: supermarioworld2yoshisislandsheet1a_41
+  - first:
+      213: 175671865588989834
+    second: supermarioworld2yoshisislandsheet1a_42
+  - first:
+      213: 6596983870494264875
+    second: supermarioworld2yoshisislandsheet1a_43
+  - first:
+      213: -1268870193727405803
+    second: supermarioworld2yoshisislandsheet1a_44
+  - first:
+      213: -1066288798157971165
+    second: supermarioworld2yoshisislandsheet1a_45
+  - first:
+      213: 6245028675621402064
+    second: supermarioworld2yoshisislandsheet1a_46
+  - first:
+      213: 7666305779630366828
+    second: supermarioworld2yoshisislandsheet1a_47
+  - first:
+      213: -4370571057747371244
+    second: supermarioworld2yoshisislandsheet1a_48
+  - first:
+      213: 2955324623232948738
+    second: supermarioworld2yoshisislandsheet1a_49
+  - first:
+      213: 8400122105714249954
+    second: supermarioworld2yoshisislandsheet1a_50
+  - first:
+      213: -8857682637362597632
+    second: supermarioworld2yoshisislandsheet1a_51
+  - first:
+      213: -8518923827478114933
+    second: supermarioworld2yoshisislandsheet1a_52
+  - first:
+      213: 756664234385702416
+    second: supermarioworld2yoshisislandsheet1a_53
+  - first:
+      213: -1922520295564668070
+    second: supermarioworld2yoshisislandsheet1a_54
+  - first:
+      213: 8749022707292702914
+    second: supermarioworld2yoshisislandsheet1a_55
+  - first:
+      213: 3833198564022006194
+    second: supermarioworld2yoshisislandsheet1a_56
+  - first:
+      213: 1611486146638654080
+    second: supermarioworld2yoshisislandsheet1a_57
+  - first:
+      213: 231035606120077202
+    second: supermarioworld2yoshisislandsheet1a_58
+  - first:
+      213: 5326690565563937452
+    second: supermarioworld2yoshisislandsheet1a_59
+  - first:
+      213: -1546809742829034852
+    second: supermarioworld2yoshisislandsheet1a_60
+  - first:
+      213: -3863030482923496372
+    second: supermarioworld2yoshisislandsheet1a_61
+  - first:
+      213: -4290588515312827333
+    second: supermarioworld2yoshisislandsheet1a_62
+  - first:
+      213: -2825849444211584066
+    second: supermarioworld2yoshisislandsheet1a_63
+  - first:
+      213: -6941003823970878155
+    second: supermarioworld2yoshisislandsheet1a_64
+  - first:
+      213: -5768039755854183944
+    second: supermarioworld2yoshisislandsheet1a_65
+  - first:
+      213: 3958505987775654664
+    second: supermarioworld2yoshisislandsheet1a_66
+  - first:
+      213: -3396147267306154096
+    second: supermarioworld2yoshisislandsheet1a_67
+  - first:
+      213: -1704947469832276550
+    second: supermarioworld2yoshisislandsheet1a_68
+  - first:
+      213: 8079351406887935439
+    second: supermarioworld2yoshisislandsheet1a_69
+  - first:
+      213: 5353136387509037742
+    second: supermarioworld2yoshisislandsheet1a_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb603627618512c0800000000000000
+      internalID: -4461517575818286090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 242
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433f4afc88675b940800000000000000
+      internalID: 5311281665524691764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 242
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199d95a21dc2316b0800000000000000
+      internalID: -5326864657378846319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 242
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae8bfe87af4341e0800000000000000
+      internalID: -2214839010659168599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 242
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80c4301847732af0800000000000000
+      internalID: -422362788649451381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 242
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6d50f3527ba5f80800000000000000
+      internalID: -8116974007782877535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 242
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c2c135f8b645690800000000000000
+      internalID: -7614342806657815460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 242
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec59ce0f62aa2700800000000000000
+      internalID: 516403705160490216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 242
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed28a2ec2e0a6a780800000000000000
+      internalID: -8672067136473365794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 242
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea07d5b92821fd80800000000000000
+      internalID: -8218743685364905233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 242
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b4819903e1509a0800000000000000
+      internalID: -6267570112340407453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 242
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b932a90301a467a0800000000000000
+      internalID: -6384801337285920328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 242
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf9368f646375a60800000000000000
+      internalID: 7662652969437077445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 242
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de5bb353a9737f00800000000000000
+      internalID: 1113367275282063059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_14
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 242
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca80460d572d7d0800000000000000
+      internalID: -2895122072553870225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 242
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec23c4650471c8a0800000000000000
+      internalID: -6286616038318330648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cf3d6ee9b70d920800000000000000
+      internalID: 3013044073118563398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 199
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebbe2d97ac65c0e0800000000000000
+      internalID: -2250272971649270814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 202
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9829fb47adffa60800000000000000
+      internalID: 7710121282046691809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 196
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c09c54ef521b2d20800000000000000
+      internalID: 3254715358767780040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 198
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a780fa594e4769da0800000000000000
+      internalID: -5938430533528778630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 196
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e2e363b6e00d4d0800000000000000
+      internalID: -3111971488878678386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 199
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91409e18c8f7f5bc0800000000000000
+      internalID: -3792172119770987495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 204
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcc3301fcaa91c70800000000000000
+      internalID: 8942366341427612884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 200
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4558572d96ba9f0800000000000000
+      internalID: -456154584612252489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 201
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5553040d1deb426a0800000000000000
+      internalID: -6474840555900619435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 205
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f2d52d71b2a2fd0800000000000000
+      internalID: -2366031272916209851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 206
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8d015f3059eac0800000000000000
+      internalID: -3825438175601521819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_28
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 202
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9123c063e291c55e0800000000000000
+      internalID: -1919631654900714983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_29
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 205
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342463c71c724250800000000000000
+      internalID: 5927436501077206073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_30
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 202
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a8fd3eb395e53c0800000000000000
+      internalID: -4368956474741782011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 147
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e92fb929f8435030800000000000000
+      internalID: 3482207171871975906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 147
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d29611a331cbf30800000000000000
+      internalID: 4592566860132199806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 147
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756264e7cbfc3f200800000000000000
+      internalID: 212742015895873111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_34
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 147
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5745c8e25a0b3d0800000000000000
+      internalID: -3192870516464257610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 147
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c20d94e34133240800000000000000
+      internalID: 4770178688074394754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 147
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad6809871733bd20800000000000000
+      internalID: 3293036326760770988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 18
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54ea3ae47db5d650800000000000000
+      internalID: 6257115567144756314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 148
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadab8b33551cd7d0800000000000000
+      internalID: -2892413413453222486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 147
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb10feadefb5ed80800000000000000
+      internalID: -8221954517131846663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 147
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8315a36559b721b0800000000000000
+      internalID: -5681368628509469813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 147
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4effa21160524dd90800000000000000
+      internalID: -7073988406704144412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f367981ac107200800000000000000
+      internalID: 175671865588989834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ecacdb0e13d8b50800000000000000
+      internalID: 6596983870494264875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5110cc41841146ee0800000000000000
+      internalID: -1268870193727405803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321e0ddccf7c331f0800000000000000
+      internalID: -1066288798157971165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 98
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5ba8e2e7ccaa650800000000000000
+      internalID: 6245028675621402064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 98
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60646e1d70346a60800000000000000
+      internalID: 7666305779630366828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 98
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5d5d77cc9853c0800000000000000
+      internalID: -4370571057747371244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 98
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad3cb361c630920800000000000000
+      internalID: 2955324623232948738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 98
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01105ac8a339470800000000000000
+      internalID: 8400122105714249954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_51
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 98
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0017bd24290331580800000000000000
+      internalID: -8857682637362597632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_52
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 98
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d4e820ae3b6c980800000000000000
+      internalID: -8518923827478114933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_53
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 98
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e7dc8bc16308a00800000000000000
+      internalID: 756664234385702416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 98
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5393652af5d155e0800000000000000
+      internalID: -1922520295564668070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_55
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 7
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c802084cc5ca6970800000000000000
+      internalID: 8749022707292702914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 7
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1b11ae8c1423530800000000000000
+      internalID: 3833198564022006194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_57
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 7
+        width: 22
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a2cd2cc162d5610800000000000000
+      internalID: 1611486146638654080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_58
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 46
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2971141e8adc43300800000000000000
+      internalID: 231035606120077202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2fcdce8d43ce940800000000000000
+      internalID: 5326690565563937452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92ef87fbb0a88ae0800000000000000
+      internalID: -1546809742829034852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_61
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 7
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cd6d43e32c36ac0800000000000000
+      internalID: -3863030482923496372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 78
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3488635a74c474c0800000000000000
+      internalID: -4290588515312827333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_63
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 7
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3980907e098c8d0800000000000000
+      internalID: -2825849444211584066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_64
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 32
+        width: 21
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3091472}
+      border: {x: 0, y: 2, z: 0, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d769f0cc99caf90800000000000000
+      internalID: -6941003823970878155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_65
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 20
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f10bf5076ec3ffa0800000000000000
+      internalID: -5768039755854183944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bef9a09307fe630800000000000000
+      internalID: 3958505987775654664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_67
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 7
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0979d4fcd067ed0d0800000000000000
+      internalID: -3396147267306154096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_68
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 26
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab532f33f4fc658e0800000000000000
+      internalID: -1704947469832276550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_69
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 26
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd9b1f5c4f9f1070800000000000000
+      internalID: 8079351406887935439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarioworld2yoshisislandsheet1a_70
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaa1bbae292a4a40800000000000000
+      internalID: 5353136387509037742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c8d399bbede89f4459fbbefd66fa9313
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      supermarioworld2yoshisislandsheet1a_0: -4461517575818286090
+      supermarioworld2yoshisislandsheet1a_1: 5311281665524691764
+      supermarioworld2yoshisislandsheet1a_10: -6267570112340407453
+      supermarioworld2yoshisislandsheet1a_11: -6384801337285920328
+      supermarioworld2yoshisislandsheet1a_12: 7662652969437077445
+      supermarioworld2yoshisislandsheet1a_13: 1113367275282063059
+      supermarioworld2yoshisislandsheet1a_14: -2895122072553870225
+      supermarioworld2yoshisislandsheet1a_15: -6286616038318330648
+      supermarioworld2yoshisislandsheet1a_16: 3013044073118563398
+      supermarioworld2yoshisislandsheet1a_17: -2250272971649270814
+      supermarioworld2yoshisislandsheet1a_18: 7710121282046691809
+      supermarioworld2yoshisislandsheet1a_19: 3254715358767780040
+      supermarioworld2yoshisislandsheet1a_2: -5326864657378846319
+      supermarioworld2yoshisislandsheet1a_20: -5938430533528778630
+      supermarioworld2yoshisislandsheet1a_21: -3111971488878678386
+      supermarioworld2yoshisislandsheet1a_22: -3792172119770987495
+      supermarioworld2yoshisislandsheet1a_23: 8942366341427612884
+      supermarioworld2yoshisislandsheet1a_24: -456154584612252489
+      supermarioworld2yoshisislandsheet1a_25: -6474840555900619435
+      supermarioworld2yoshisislandsheet1a_26: -2366031272916209851
+      supermarioworld2yoshisislandsheet1a_27: -3825438175601521819
+      supermarioworld2yoshisislandsheet1a_28: -1919631654900714983
+      supermarioworld2yoshisislandsheet1a_29: 5927436501077206073
+      supermarioworld2yoshisislandsheet1a_3: -2214839010659168599
+      supermarioworld2yoshisislandsheet1a_30: -4368956474741782011
+      supermarioworld2yoshisislandsheet1a_31: 3482207171871975906
+      supermarioworld2yoshisislandsheet1a_32: 4592566860132199806
+      supermarioworld2yoshisislandsheet1a_33: 212742015895873111
+      supermarioworld2yoshisislandsheet1a_34: -3192870516464257610
+      supermarioworld2yoshisislandsheet1a_35: 4770178688074394754
+      supermarioworld2yoshisislandsheet1a_36: 3293036326760770988
+      supermarioworld2yoshisislandsheet1a_37: 6257115567144756314
+      supermarioworld2yoshisislandsheet1a_38: -2892413413453222486
+      supermarioworld2yoshisislandsheet1a_39: -8221954517131846663
+      supermarioworld2yoshisislandsheet1a_4: -422362788649451381
+      supermarioworld2yoshisislandsheet1a_40: -5681368628509469813
+      supermarioworld2yoshisislandsheet1a_41: -7073988406704144412
+      supermarioworld2yoshisislandsheet1a_42: 175671865588989834
+      supermarioworld2yoshisislandsheet1a_43: 6596983870494264875
+      supermarioworld2yoshisislandsheet1a_44: -1268870193727405803
+      supermarioworld2yoshisislandsheet1a_45: -1066288798157971165
+      supermarioworld2yoshisislandsheet1a_46: 6245028675621402064
+      supermarioworld2yoshisislandsheet1a_47: 7666305779630366828
+      supermarioworld2yoshisislandsheet1a_48: -4370571057747371244
+      supermarioworld2yoshisislandsheet1a_49: 2955324623232948738
+      supermarioworld2yoshisislandsheet1a_5: -8116974007782877535
+      supermarioworld2yoshisislandsheet1a_50: 8400122105714249954
+      supermarioworld2yoshisislandsheet1a_51: -8857682637362597632
+      supermarioworld2yoshisislandsheet1a_52: -8518923827478114933
+      supermarioworld2yoshisislandsheet1a_53: 756664234385702416
+      supermarioworld2yoshisislandsheet1a_54: -1922520295564668070
+      supermarioworld2yoshisislandsheet1a_55: 8749022707292702914
+      supermarioworld2yoshisislandsheet1a_56: 3833198564022006194
+      supermarioworld2yoshisislandsheet1a_57: 1611486146638654080
+      supermarioworld2yoshisislandsheet1a_58: 231035606120077202
+      supermarioworld2yoshisislandsheet1a_59: 5326690565563937452
+      supermarioworld2yoshisislandsheet1a_6: -7614342806657815460
+      supermarioworld2yoshisislandsheet1a_60: -1546809742829034852
+      supermarioworld2yoshisislandsheet1a_61: -3863030482923496372
+      supermarioworld2yoshisislandsheet1a_62: -4290588515312827333
+      supermarioworld2yoshisislandsheet1a_63: -2825849444211584066
+      supermarioworld2yoshisislandsheet1a_64: -6941003823970878155
+      supermarioworld2yoshisislandsheet1a_65: -5768039755854183944
+      supermarioworld2yoshisislandsheet1a_66: 3958505987775654664
+      supermarioworld2yoshisislandsheet1a_67: -3396147267306154096
+      supermarioworld2yoshisislandsheet1a_68: -1704947469832276550
+      supermarioworld2yoshisislandsheet1a_69: 8079351406887935439
+      supermarioworld2yoshisislandsheet1a_7: 516403705160490216
+      supermarioworld2yoshisislandsheet1a_70: 5353136387509037742
+      supermarioworld2yoshisislandsheet1a_8: -8672067136473365794
+      supermarioworld2yoshisislandsheet1a_9: -8218743685364905233
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
