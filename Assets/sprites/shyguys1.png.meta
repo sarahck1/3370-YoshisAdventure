@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shyguys1_0: -8213224117350597034
+      shyguys1_1: -3196927415650610728
+      shyguys1_10: -3647985631883371160
+      shyguys1_2: 8503206131088125146
+      shyguys1_3: -3427843665688825887
+      shyguys1_4: -1462500720066438504
+      shyguys1_5: 8342040088757932898
+      shyguys1_6: -1776871351741272806
+      shyguys1_7: 8864384232327356411
+      shyguys1_8: 4807981656181686462
+      shyguys1_9: 1947300703892557584
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
