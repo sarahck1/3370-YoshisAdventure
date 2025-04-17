@@ -129,9 +129,9 @@ GameObject:
   m_Component:
   - component: {fileID: 182213195}
   - component: {fileID: 182213194}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ground
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -939,9 +939,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1674cc681e5695845a07170e6f995c10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedX: 0
-  leftX: 0
-  rightX: 0
   inGround: {fileID: 651752303}
   groundLayer:
     serializedVersion: 2
@@ -957,7 +954,7 @@ GameObject:
   - component: {fileID: 651752303}
   - component: {fileID: 651752304}
   m_Layer: 0
-  m_Name: isGrounded
+  m_Name: inGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -972,7 +969,7 @@ Transform:
   m_GameObject: {fileID: 651752302}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.204, y: 0.278, z: 0}
+  m_LocalPosition: {x: 0, y: -0.123, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1012,8 +1009,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.24272762, y: -0.42783698}
-  m_Size: {x: 0.22134732, y: 0.0204258}
+  m_Offset: {x: -0.04, y: -0.035}
+  m_Size: {x: 0.14, y: 0.0204258}
   m_Direction: 1
 --- !u!1 &727997517
 GameObject:
@@ -1690,7 +1687,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 0
+  m_GravityScale: 8
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -1757,7 +1754,7 @@ Transform:
   m_GameObject: {fileID: 1951482733}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.62, y: -3.14, z: -0.4}
+  m_LocalPosition: {x: -6.81, y: -3.14, z: -0.4}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1781,9 +1778,7 @@ MonoBehaviour:
   inGround: {fileID: 651752303}
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
-  flutterJumpForce: 0
-  flutterJumpDuration: 0
+    m_Bits: 8
 --- !u!114 &1951482740
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1797,7 +1792,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverCanvas: {fileID: 727997517}
-  gameOverText: {fileID: 808288563}
 --- !u!1 &2044438890
 GameObject:
   m_ObjectHideFlags: 0
