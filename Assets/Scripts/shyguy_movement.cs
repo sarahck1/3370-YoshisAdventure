@@ -4,8 +4,9 @@ using UnityEngine;
 public class shyguy_movement : MonoBehaviour
 {
     Rigidbody2D rb;
-    public float speedX;
-    public float leftX, rightX;
+    private float speedX = 1.0f;
+    private float rightX = 4.0f;
+    private float leftX = 0.0f;
     private int isFacingRight = 1;
 
     public Transform inGround;
@@ -28,7 +29,7 @@ public class shyguy_movement : MonoBehaviour
         isGrounded = Physics2D.OverlapCapsule(inGround.position, new Vector2(2.5f, 1.0f), CapsuleDirection2D.Horizontal, 0, groundLayer);
 
         // allows shy guy to rotate after reaching a certain point
-        if (transform.position.x > rightX || transform.position.x < leftX)
+        if (transform.position.x >= rightX || transform.position.x <= leftX)
         {
             Flip();
         }
