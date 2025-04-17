@@ -5,7 +5,7 @@ using UnityEngine.UI;  // For UI elements like Text
 public class Yoshi_Death : MonoBehaviour
 {
     public GameObject gameOverCanvas;
-    public GameObject gameOverText;  
+ 
 
     private void Start()
     {
@@ -27,6 +27,7 @@ public class Yoshi_Death : MonoBehaviour
             anim.enabled = false;
         }   
             // show the Game Over message
+            Time.timeScale = 0;
             this.gameObject.SetActive(false);
             ShowGameOver();
         }

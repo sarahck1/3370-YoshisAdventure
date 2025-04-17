@@ -15,11 +15,7 @@ public class Yoshi_Move : MonoBehaviour
     public LayerMask groundLayer;
     bool isGrounded;
 
-    // flutter jump variables
-    public float flutterJumpForce;
-    public float flutterJumpDuration;
-    private float flutterJumpTime;
-    private bool canDoubleJump = false;
+
 
     // animation
     private Animator anim_yoshi;
@@ -35,40 +31,21 @@ public class Yoshi_Move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        isGrounded = Physics2D.OverlapCapsule(inGround.position, new Vector2(2.5f, 1.0f), CapsuleDirection2D.Horizontal, 0, groundLayer);
-        speedX = Input.GetAxisRaw("Horizontal") * speed;
+    
+        isGrounded = Physics2D.OverlapCapsule(inGround.position, new Vector2(2.5f,1.0f),CapsuleDirection2D.Horizontal,0,groundLayer);
+        speedX = Input.GetAxisRaw("Horizontal")*speed;
+        //speedY = Input.GetAxisRaw("Vertical")*speed;
+       
 
-
-        if (Input.GetButtonDown("Jump"))
+        if(Input.GetButton("Jump")&&isGrounded)
         {
-            if (isGrounded)
-            {
-                rb.AddForce(new Vector2(rb.linearVelocity.x, jump)); // regular jump
-                canDoubleJump = true;  // enable double jump
-            }
-            else if (canDoubleJump)
-            {
-                rb.AddForce(new Vector2(rb.linearVelocity.x, jump)); // double jump
-                canDoubleJump = false;  // disable double jump after use
-            }
-        }
-
-        // flutter jump (while in air and holding jump)
-        if (!isGrounded && !canDoubleJump && flutterJumpTime < flutterJumpDuration)
-        {
-            if (Input.GetButton("Jump"))
-            {
-                rb.AddForce(new Vector2(0, flutterJumpForce));  // flutter force, how much it increases the height
-                flutterJumpTime += Time.deltaTime;
-            }
-        }
-        else
-        {
-            flutterJumpTime = 0f;  // reset flutter jump time if no longer holding jump
+            rb.AddForce(new Vector2(rb.linearVelocity.x,jump));
         }
 
 
-        rb.linearVelocity = new Vector2(speedX, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(speedX,speedY);
+        
+    
 
         //set animations for idle/run
         if (speedX != 0)
