@@ -11,7 +11,11 @@ public class follow_yoshi : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (target != null)
+        {
         float newX = Mathf.Lerp(transform.position.x, target.position.x, FollowSpeed * Time.deltaTime);
         transform.position = new Vector3(newX, fixedY, -10f);
+        }
+
     }
 }
