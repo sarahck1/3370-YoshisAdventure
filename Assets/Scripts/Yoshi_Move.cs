@@ -35,7 +35,6 @@ public class Yoshi_Move : MonoBehaviour
         isGrounded = Physics2D.OverlapCapsule(inGround.position, new Vector2(2.5f,1.0f),CapsuleDirection2D.Horizontal,0,groundLayer);
         speedX = Input.GetAxisRaw("Horizontal")*speed;
         //speedY = Input.GetAxisRaw("Vertical")*speed;
-       Debug.Log(isGrounded);
 
         if(Input.GetButton("Jump")&&isGrounded)
         {
