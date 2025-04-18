@@ -102,4 +102,13 @@ public class Yoshi_Health : MonoBehaviour
         Destroy(fruitCollider.gameObject); // remove the fruit after picking it up
     }
 }
+void Update()
+{
+    if (transform.position.y < -6f) // Adjust value depending on your level
+    {
+        currentLives = 0;
+        GameOver();
+    }
+}
+
 }

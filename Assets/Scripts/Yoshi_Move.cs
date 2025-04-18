@@ -33,10 +33,11 @@ public class Yoshi_Move : MonoBehaviour
 
         // Handle horizontal movement
         speedX = Input.GetAxisRaw("Horizontal") * speed;
-
+        
         // Jump handling
         if (Input.GetButton("Jump") && isGrounded)
         {
+            
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jump); // Jumping without adding force
         }
         
