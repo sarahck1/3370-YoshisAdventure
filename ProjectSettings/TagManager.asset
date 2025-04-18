@@ -6,6 +6,7 @@ TagManager:
   tags:
   - shyguy_enemy
   - ground
+  - ItemBlock
   layers:
   - Default
   - TransparentFX
