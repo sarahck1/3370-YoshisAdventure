@@ -5,8 +5,8 @@ public class goomba_move : MonoBehaviour
     Rigidbody2D rb;
     private float speedX = 1.0f;
     //set distance once level is made
-    private float rightX;
-    private float leftX;
+    private float rightX = 59.35f;
+    private float leftX = 56.5f;
     private int isFacingRight = 1;
 
     public Transform inGround;

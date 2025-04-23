@@ -5,8 +5,8 @@ public class shyguy_movement : MonoBehaviour
 {
     Rigidbody2D rb;
     private float speedX = 1.0f;
-    private float rightX = 4.0f;
-    private float leftX = 0.0f;
+    private float rightX = 16.5f;
+    private float leftX = 13.6f;
     private int isFacingRight = 1;
 
     public Transform inGround;
