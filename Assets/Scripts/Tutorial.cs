@@ -5,31 +5,27 @@ using UnityEngine;
 
 public class Tutorial : MonoBehaviour
 {
-    public GameObject blankBlock;
-    public GameObject questionBlock;
+    //public GameObject blankBlock;
+   // public GameObject questionBlock;
     public GameObject messageText;
+    public Sprite blankSprite; 
+    private SpriteRenderer spriteRenderer;
 
     public float displayTime = 30f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        //hide blank, show question
-        if(blankBlock && questionBlock && messageText != null)
-        {
-            messageText.SetActive(false);
-            blankBlock.SetActive(false);
-            questionBlock.SetActive(true);
-        }
+        messageText.SetActive(false);
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("ItemBlock"))
+        if (collision.gameObject.CompareTag("Player"))
         {   
             StartCoroutine(ShowMessage()); //in order to wait before hiding the text
-            blankBlock.SetActive(true);
-            questionBlock.SetActive(false);
+            SwapToBlankBlock();
         }
     }
 
@@ -44,5 +40,13 @@ public class Tutorial : MonoBehaviour
     void Update()
     {
         
+    }
+
+     private void SwapToBlankBlock()
+    {
+        if (blankSprite != null)
+        {
+            spriteRenderer.sprite = blankSprite;
+        }
     }
 }

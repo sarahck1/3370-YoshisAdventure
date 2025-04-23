@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class ItemBlock : MonoBehaviour
 {
-    public GameObject[] fruitPrefabs; // Drag your fruit prefabs in the Inspector
-    public Transform spawnPoint; // Empty object above block
-    public Sprite blankSprite; // Drag your blank block sprite here
+    public GameObject[] fruitPrefabs; 
+    public Transform spawnPoint; 
+    public Sprite blankSprite; 
 
     private SpriteRenderer spriteRenderer;
     private bool hasBeenHit = false;

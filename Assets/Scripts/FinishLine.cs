@@ -2,14 +2,19 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
 public class FinishLine : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    /*void Start()
+    public GameObject winningCanvas; //displays you win, restart, and quit
+
+
+    //Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
     {
-        
-    }*/
+        if(winningCanvas != null)
+        {
+            winningCanvas.SetActive(false);
+        }
+    }
 
     // Update is called once per frame
     /*void Update()
@@ -21,7 +26,9 @@ public class FinishLine : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //Allows level progression if neccessary
+             Time.timeScale = 0;
+            winningCanvas.SetActive(true); //display you win screen
+            //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //Allows level progression if neccessary
         }
     }
 }
