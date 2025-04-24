@@ -1,5 +1,6 @@
 using System.Runtime.CompilerServices;
 using UnityEngine;
+using System.Collections;
 
 public class shyguy_movement : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class shyguy_movement : MonoBehaviour
     private float rightX = 16.5f;
     private float leftX = 13.6f;
     private int isFacingRight = 1;
+    private bool isFlipping;
 
     public Transform inGround;
     public LayerMask groundLayer;
@@ -29,19 +31,23 @@ public class shyguy_movement : MonoBehaviour
         isGrounded = Physics2D.OverlapCapsule(inGround.position, new Vector2(2.5f, 1.0f), CapsuleDirection2D.Horizontal, 0, groundLayer);
 
         // allows shy guy to rotate after reaching a certain point
-        if (transform.position.x >= rightX || transform.position.x <= leftX)
+        if (!isFlipping && (transform.position.x >= rightX || transform.position.x <= leftX))
         {
-            Flip();
+            StartCoroutine(Flip());
         }
 
         rb.linearVelocity = Vector2.right * isFacingRight * speedX;
 
     }
 
-    private void Flip() //flips shy guy since npc
+    IEnumerator Flip() //flips shy guy since npc
     {
+        isFlipping = true;
         transform.Rotate(0, 180, 0);
         isFacingRight *= -1;
+
+        yield return new WaitForSeconds(0.4f);
+        isFlipping = false;
     }
 
 }
